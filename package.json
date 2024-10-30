@@ -1,0 +1,15 @@
+{
+  "name": "colorbox-mustard",
+  "version": "1.0.0",
+  "description": "An interactive music creation game with a mustard-themed twist, inspired by Incredibox.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "[Your Name]",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
