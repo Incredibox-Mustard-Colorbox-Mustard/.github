@@ -1,6 +1,11 @@
-# Colorbox Mustard
+# Incredibox Mustard - Colorbox Mustard Game - Play Online
+
+## [Play Incredibox Mustard Online!](https://tinyurl.com/y4rzptrt)
+
+![hq720 (1)](https://github.com/user-attachments/assets/8de2f52d-bc9b-4c13-93a1-da23d151f750)
 
 ## Description
+
 This repository contains the files and resources for **Colorbox Mustard**, a fan-made interactive music creation game inspired by **Incredibox**. In Colorbox Mustard, players can mix sounds and characters in a unique, mustard-themed setting, creating a playful and engaging musical experience.
 
 ## Features
