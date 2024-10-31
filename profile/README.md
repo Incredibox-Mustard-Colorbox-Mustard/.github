@@ -41,6 +41,9 @@ To install and set up the project locally:
 3. Experiment with various combinations to create your own music track.
 4. Share your compositions with the community.
 
+## More Infor:
+- [Eppi Cinema](https://github.com/Eppi-Cinema)
+
 ## Technologies Used
 - **HTML5**
 - **CSS3**
