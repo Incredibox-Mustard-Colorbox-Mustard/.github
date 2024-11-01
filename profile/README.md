@@ -43,6 +43,55 @@ To install and set up the project locally:
 
 ## More Infor:
 - [Eppi Cinema](https://github.com/Eppi-Cinema)
+- https://github.com/Eppi-Cinema
+- https://github.com/Uni-TV
+- https://github.com/roblox-mobile
+- https://github.com/Fortnite-MOD
+- https://github.com/Subway-Surfers-Game
+- https://github.com/Monopoly-Go-Game
+- https://github.com/Spotify-Premium-Mobile
+- https://github.com/Among-Us-APK
+- https://github.com/Call-of-Duty-mobile
+- https://github.com/Clash-of-Clans-APK
+- https://github.com/GTA-5-Mobile
+- https://github.com/Genshin-Impact-APK
+- https://github.com/Dream-League-Soccer-2024
+- https://github.com/Mashup-Hero
+- https://github.com/Stumble-Guys-APKmm
+- https://github.com/Netflix-Premium-apk
+- https://github.com/Minecraft-APK
+- https://github.com/youtube-vanced-mobile
+- https://github.com/AN777-APK
+- https://github.com/66d-APK
+- https://github.com/3126-Slot-APK
+- https://github.com/8638-APK
+- https://github.com/AT777-APK
+- https://github.com/HP777-APK
+- https://github.com/Jaya-Slot-APK
+- https://github.com/JT777-APK
+- https://github.com/MT777-APK
+- https://github.com/Rejekibet-Slot-APK
+- https://github.com/RP777-APK
+- https://github.com/SP777-APK
+- https://github.com/PT777-SLOT-APK
+- https://github.com/Spotify-Premium-2024
+- https://github.com/Animes-Brasil-APK
+- https://github.com/Bem-TV-APK
+- https://github.com/Brasil-TV-APK
+- https://github.com/Dantotsu-APK
+- https://github.com/UniTV-APK
+- https://github.com/HDO-Box-MOD-APK
+- https://github.com/CineTV-APK
+- https://github.com/Better-Anime-APK
+- https://github.com/TV-Express-APK
+- https://github.com/Crunchyroll-MOD-APK
+- https://github.com/Youcine-APK
+- https://github.com/Soul-TV-APK
+- https://github.com/Wattpad-Premium-APK
+- https://github.com/Warez-TV-APK
+- https://github.com/SuperCine-TV-APK
+- https://github.com/Gato-TV-APK
+- https://github.com/Purple-TV-APK
 
 ## Technologies Used
 - **HTML5**
