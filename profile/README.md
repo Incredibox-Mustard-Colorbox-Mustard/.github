@@ -2,6 +2,8 @@
 
 ## [Play Incredibox Mustard Online!](https://tinyurl.com/y4rzptrt)
 
+## [Play Incredibox Warm Like Fire!](https://github.com/Incredibox-Warm-Like-Fire)
+
 ![hq720 (1)](https://github.com/user-attachments/assets/8de2f52d-bc9b-4c13-93a1-da23d151f750)
 
 ## Description
